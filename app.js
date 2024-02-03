@@ -32,11 +32,11 @@ map.on('load', () => {
                     {
                         type: 'Feature',
                         properties: {
-                            name: 'Building 1',
+                            name: 'UW 2',
                         },
                         geometry: {
                             type: 'Point',
-                            coordinates: [-122.196848, 47.759285], // Example coordinates for Building 1
+                            coordinates: [-122.1911463, 47.758586], 
                         },
                     },
                     // Add more buildings as needed
